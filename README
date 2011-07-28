@@ -1,0 +1,5 @@
+Pomified version of the ADK DemoKit App.
+
+http://developer.android.com/guide/topics/usb/adk.html#running-demokit
+
+You need usb.jar in your local rmvn repository!
